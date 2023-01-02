@@ -1,4 +1,5 @@
 # MVD - Metody vytěžování dat
+František Kynych (frantisek.kynych@tul.cz)
 2 povolené absence.
 Zápočet za docházku a cvičení.
 písemná zkouška
@@ -8,5 +9,6 @@ Body ze cvičení
 2 týdny na odevzdání.
 Odevzdávat do emailu.
 
-Rovnice TF-IDF
-Umět vysvětlit.
+## Zkouška
+[[Okruhy ke zkoušce]]
+
