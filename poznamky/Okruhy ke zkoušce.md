@@ -27,10 +27,10 @@
 	b. K čemu je MapReduce  
 	c. PageRank, HITS  
 7. **Týden ([[p07_shlukovani.pdf|Shlukování]])**  
-	a. Co a k čemu to je, příklad aplikace  
-	b. Hierarchické shlukování  
-	c. K-Means  
-	d. Určení optimální hodnoty K u K-Means  
+	a. Co a k čemu to je, příklad [[Apliace shlukování|aplikace]]
+	b. [[Hierarchické shlukování]] 
+	c. [[K-means]]  
+	d. Určení optimální hodnoty [[LBG|K]] u K-Means  
 8. **Týden ([[p08_shlukovani_2.pdf|Shlukování 2]])**  
 	a. DBSCAN  
 		i. Jak funguje  
