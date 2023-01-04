@@ -5,10 +5,10 @@ Využívá neuronovou síť s jednou skrytou vrstvou. Dva možné algoritmy:
 - Continuous bag of words (CBOW)
 	- Založen na predikci daného slova pomocí okolních slov
 
-- Několi trénovacích metod:
-	- Softmax
-	- Hierarchical Softmax
-	- Negative sampling
+Několi trénovacích metod:
+- [[Softmax|Softmax]]
+- Hierarchical Softmax
+- Negative sampling
 
 ## Skip-gram 
 Maximalizujme pravděpodobnost výskytu okolních slov
@@ -16,13 +16,9 @@ Maximalizujme pravděpodobnost výskytu okolních slov
 *Petr dnes šel do kina*
 Při šířce okolí 2 maximalizujeme pro slovo šel pravděpodobnost: 𝑃(𝑃𝑒𝑡𝑟│š𝑒𝑙,𝑾)+𝑃(𝑑𝑛𝑒𝑠│š𝑒𝑙,𝑾)+𝑃(𝑑𝑜│š𝑒𝑙,𝑾)+𝑃(kina | šel,𝑾)
 
-Model přitom odpovídá neuronové síti s parametry 𝑾. Parametry 𝑾 jsou matice vah skryté a výstupní vrstvy (𝑾1 a 𝑾2 ).
-Matice 𝑾1 pak představuje matici embeddingů pro všechna slova ze slovníku. Její rozměry (počet neuronů skryté vrstvy) určují dimenzi nalezeného prostoru. Nalezený prostor má požadované vlastnosti.
+Model přitom odpovídá neuronové síti s parametry $𝑾$. Parametry $𝑾$ jsou matice vah skryté a výstupní vrstvy ($𝑾1$ a $𝑾2$ ).
+Matice $𝑾1$ pak představuje matici embeddingů pro všechna slova ze slovníku. Její rozměry (počet neuronů skryté vrstvy) určují dimenzi nalezeného prostoru. Nalezený prostor má požadované vlastnosti.
 
-## Softmax
-$$
-\hat𝑦_𝑐 = 𝑆𝑂𝐹𝑇𝑀𝐴𝑋(𝒖) = \frac{𝑒^{𝑢_𝑐} }{ \sum^𝐶_{𝑑=1} 𝑒^{𝑢_d}}
-$$
 ## Nevýhody popsaného způsobu trénování 
 Výše popsané trénování má nevýhody: 
 1. Výpočet softmaxu pro velké slovníku je náročný (exponenciála) 

@@ -15,17 +15,17 @@
 	a. Jaké úlohy vyhledávač obsahuje  
 	b. Jak funguje [[indexování|indexování]] 
 	c. [[Vector Space Model]] – k čemu je potřeba  
-	d. [[TF-IDF]], [[BM25]]  
+	d. [[TF-IDF]], [[BM25]] 
 	e. Precision, Recall, [[F-Measure]]  
 5. **Týden ([[p05_vyhledávání_NN.pdf|Vyhledávání 2]])**  
-	a. Kosinova podobnost  
-	b. Jak vylepšit vyhledávání s Word2Vec  
+	a. [[Kosinová podobnost|Kosinova podobnost]]  
+	b. Jak vylepšit [[Word2Vec retrieval model|vyhledávání s Word2Vec]]  
 	c. Jaké jsou další možnosti vylepšení vyhledávání  
 	d. Siamská architektura neuronových sítí a její použití  
 6. **Týden ([[p06_hodnoceni_a_vyhledávání_na_webu.pdf|Hodnocení a vyhledávání na webu]])**  
-	a. Z čeho se skládá vyhledávač  
-	b. K čemu je MapReduce  
-	c. PageRank, HITS  
+	a. Z čeho se skládá vyhledávač 
+	b. K čemu je MapReduce 
+	c. PageRank, HITS 
 7. **Týden ([[p07_shlukovani.pdf|Shlukování]])**  
 	a. Co a k čemu to je, příklad [[Apliace shlukování|aplikace]]
 	b. [[Hierarchické shlukování]] 
