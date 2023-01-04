@@ -13,10 +13,10 @@
 	c. Softmax vs Negative Sampling  
 4. **Týden ([[p04_vyhledávání.pdf|Vyhledávání 1]])**  
 	a. Jaké úlohy vyhledávač obsahuje  
-	b. Jak funguje indexování  
-	c. Vector Space Model – k čemu je potřeba  
-	d. TF-IDF, BM25  
-	e. Precision, Recall, F-Measure  
+	b. Jak funguje [[indexování|indexování]] 
+	c. [[Vector Space Model]] – k čemu je potřeba  
+	d. [[TF-IDF]], [[BM25]]  
+	e. Precision, Recall, [[F-Measure]]  
 5. **Týden ([[p05_vyhledávání_NN.pdf|Vyhledávání 2]])**  
 	a. Kosinova podobnost  
 	b. Jak vylepšit vyhledávání s Word2Vec  
