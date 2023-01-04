@@ -10,5 +10,5 @@ Body ze cvičení
 Odevzdávat do emailu.
 
 ## Zkouška
-[[Okruhy ke zkoušce]]
+[[Okruhy ke zkoušce z MVD]]
 

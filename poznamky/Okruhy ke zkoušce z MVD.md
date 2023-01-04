@@ -24,23 +24,23 @@
 	d. Siamská architektura neuronových sítí a její použití  
 6. **Týden ([[p06_hodnoceni_a_vyhledávání_na_webu.pdf|Hodnocení a vyhledávání na webu]])**  
 	a. Z čeho se skládá vyhledávač 
-	b. K čemu je MapReduce 
-	c. PageRank, HITS 
+	b. K čemu je [[MapReduce|MapReduce]] 
+	c. [[PageRank]], [[HITS|HITS]] 
 7. **Týden ([[p07_shlukovani.pdf|Shlukování]])**  
 	a. Co a k čemu to je, příklad [[Apliace shlukování|aplikace]]
 	b. [[Hierarchické shlukování]] 
 	c. [[K-means]]  
 	d. Určení optimální hodnoty [[LBG|K]] u K-Means  
 8. **Týden ([[p08_shlukovani_2.pdf|Shlukování 2]])**  
-	a. DBSCAN  
+	a. [[DBSCAN|DBSCAN]]  
 		i. Jak funguje  
 		ii. Core, border a outlier  
 		iii. Přímá a nepřímá dosažitelnost, propojenost  
 9. **Týden ([[p09_moderni_jazykove_modely.pdf|Moderní jazykové modely]])**  
 	a. Rekurentní neuronové sítě  
-	b. ELMO  
-	c. Transformer architektura  
-	d. BERT  
+	b. [[ELMo|ELMO]]
+	c. [[Transformer|Transformer]] architektura  
+	d. [[BERT|BERT]]  
 10. **Týden ([[p10_aplikace_jazykovych_modelu.pdf|Aplikace jazykových modelů]])**  
 	a. RoBERTa, ALBERT, ELECTRA, DistilBERT  
 	b. GLUE Benchmark – k čemu slouží  
