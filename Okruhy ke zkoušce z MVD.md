@@ -27,7 +27,7 @@
 	b. K čemu je [[MapReduce|MapReduce]] 
 	c. [[PageRank]], [[HITS|HITS]] 
 7. **Týden ([[p07_shlukovani.pdf|Shlukování]])**  
-	a. Co a k čemu to je, příklad [[Apliace shlukování|aplikace]]
+	a. Co a k čemu to je, příklad [[Aplikace shlukování|aplikace]]
 	b. [[Hierarchické shlukování]] 
 	c. [[K-means]]  
 	d. Určení optimální hodnoty [[LBG|K]] u K-Means  
