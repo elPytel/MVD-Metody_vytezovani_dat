@@ -8,12 +8,12 @@ Iterativní algoritmus
 1. Výpočet pravděpodobnostního rozdělení hodnot 
 	- S jakou pravděpodobností jsou dva body sousedé 
 $$
-𝑝_{𝑗|𝑖} = \frac{exp( \frac{\Vert𝑥_𝑖 − 𝑥_𝑗\Vert^2}{ 2𝜎_𝑖^2} )} {\sum_{𝑘≠𝑖} exp( \frac{\Vert𝑥_𝑖 − 𝑥_k\Vert^2}{ 2𝜎_𝑖^2} )}
+𝑝_{𝑗|𝑖} = \frac{exp\left( \frac{\Vert𝑥_𝑖 − 𝑥_𝑗\Vert^2}{ 2𝜎_𝑖^2} \right)} {\sum_{𝑘≠𝑖} exp\left( \frac{\Vert𝑥_𝑖 − 𝑥_k\Vert^2}{ 2𝜎_𝑖^2} \right)}
 $$
 2. Náhodná projekce dat do nižší dimenze a spočteme pro ně studentovo p. rozdělení 
 3. Minimalizace KL divergence (jak moc se dvě p. rozdělení liší)
 
-## Paramtery:
+## Parametry:
 - Dimenze výsledného prostoru 
 - Perplexita 
 	- Použito pro výběr variance Gaussova rozdělení 

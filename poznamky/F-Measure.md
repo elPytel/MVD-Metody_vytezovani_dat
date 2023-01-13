@@ -12,7 +12,7 @@ $𝑅𝑒𝑐𝑎𝑙𝑙 = \frac{𝑎} {𝑎 + b}$
 |Relevantní | a | b |
 |Nerelevantní | c | d |
 
-![# F-score](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/422px-Precisionrecall.svg.png)
+![F-score](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/422px-Precisionrecall.svg.png)
 
 Ideální stav -> Recall = Precision = 1
 
